@@ -1,0 +1,1 @@
+export const MAX_COUNT_LETTER_TWEET = 280

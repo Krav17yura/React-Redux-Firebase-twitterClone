@@ -1,0 +1,315 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "_id": "5f625ff6bd97609c6925e2b4",
+      "text": "In ad dolor labore ea est laboris commodo elit consequat nulla exercitation cupidatat. Ex nostrud nulla qui nisi cupidatat fugiat duis. Officia occaecat fugiat voluptate sit. Sint est exercitation laboris proident aute consectetur eu aliqua minim sint sint ea aute velit. Ullamco dolore qui mollit non sint sunt consequat quis.",
+      "user": {
+        "fullName": "Dickerson Mcleod",
+        "username": "kirk",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?3"
+      }
+    },
+    {
+      "_id": "5f625ff6d7a13d513245b194",
+      "text": "Nostrud in culpa reprehenderit est velit cillum duis laboris in. Cupidatat nulla occaecat id eiusmod dolor tempor laboris sit enim. Incididunt consequat velit dolore cupidatat nisi irure. Adipisicing enim in aliquip labore anim est sint dolore laboris esse elit laboris commodo esse. Consectetur reprehenderit id veniam est adipisicing anim mollit occaecat.",
+      "user": {
+        "fullName": "Hewitt Nelson",
+        "username": "matthews",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+      }
+    },
+    {
+      "_id": "kl4omljjjeq",
+      "text": "asda",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 2
+    },
+    {
+      "_id": "nvap19smmtg",
+      "text": "adadsa",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 3
+    },
+    {
+      "_id": "0pftfsit9m4p",
+      "text": "aaaaaaaa",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 4
+    },
+    {
+      "_id": "j0ms7bil7ib",
+      "text": "asdada",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 5
+    },
+    {
+      "_id": "KjOqW4on4cUf7xT",
+      "text": "Bacon ipsum dolor amet t-bone bresaola biltong drumstick pancetta.  Filet mignon jowl chuck beef, pork chop meatball boudin shankle prosciutto jerky Bacon ipsum dolor amet t-bone bresaola biltong drumstick pancetta.  Filet mignon jowl chuck beef, pork chop meatball boudin shankle",
+      "user": {
+        "fullName": "Юра",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 6
+    },
+    {
+      "_id": "8y4lg188jet",
+      "text": "ADDDDDDD",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 7
+    },
+    {
+      "_id": "m5eyl1nhrzh",
+      "text": "ASD",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 8
+    },
+    {
+      "_id": "kqa4v890w9e",
+      "text": "ad",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 9
+    },
+    {
+      "_id": "5tm2wqryl9c",
+      "text": "asdasdas",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 10
+    },
+    {
+      "_id": "q4dwjs6tta",
+      "text": "asdasd",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 11
+    },
+    {
+      "_id": "vw5hicq1x6a",
+      "text": "dfdd",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 12
+    },
+    {
+      "_id": "hqvf5atmxet",
+      "text": "asd",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 13
+    },
+    {
+      "_id": "v37tn5n0nk",
+      "text": "asd",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 14
+    },
+    {
+      "_id": "yopvydozsf9",
+      "text": "d",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 15
+    },
+    {
+      "_id": "pgyrvnau9t",
+      "text": "a",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 16
+    },
+    {
+      "_id": "xepiki6evbl",
+      "text": "s",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 17
+    },
+    {
+      "_id": "maamw5r8x49",
+      "text": "dsda",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 18
+    },
+    {
+      "_id": "9z3b52qgs0k",
+      "text": "asdaasd",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 19
+    },
+    {
+      "_id": "caod135pl6p",
+      "text": "ssss",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 20
+    },
+    {
+      "_id": "mxp3bpmbdel",
+      "text": "ss",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 21
+    },
+    {
+      "_id": "m7qlfszw9in",
+      "text": "sss",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 22
+    },
+    {
+      "_id": "idv79qcqids",
+      "text": "asddassd",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 23
+    },
+    {
+      "_id": "2xdi5i71jld",
+      "text": "ads",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 24
+    },
+    {
+      "_id": "jhtb0wmd248",
+      "text": "asd",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 25
+    },
+    {
+      "_id": "465qqzuz4un",
+      "text": "adasdasa",
+      "user": {
+        "fullName": "Yurii Kravchenko",
+        "userName": "krav_yura",
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+      },
+      "id": 26
+    }
+  ],
+  "tags": [
+    {
+      "name": "#HAPPYVDAY ",
+      "count": 8788,
+      "header": "Актуальные темы: Украина"
+    },
+    {
+      "name": "Киеве",
+      "count": 4144,
+      "header": "Актуальные темы: Украина"
+    },
+    {
+      "name": "#taehyungday",
+      "count": 12312,
+      "header": "Актуальные темы: Украина"
+    },
+    {
+      "name": "Главное",
+      "count": 56753,
+      "header": "Политика · Актуально"
+    }
+  ],
+  "recommendationUser": [
+    {
+      "_id": "5f625ff6bd97609c6925e2b4",
+      "fullName": "Yurii Kravchenko",
+      "userName": "krav_yura",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/36710059?s=460&u=2032a7eff0aabfcb796a018cf23c4b85a1131dd0&v=4"
+    },
+    {
+      "_id": "5f625ff6adc4f5a905596a37",
+      "fullName": "Hebert Morrison",
+      "userName": "kristen",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?4"
+    },
+    {
+      "_id": "5f625ff65237689d962bc96f",
+      "fullName": "Dawson Mathews",
+      "userName": "lara",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?2"
+    }
+  ]
+}
